@@ -10,9 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arthur-sst@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-arthur--sst%40hotmail.com-%23D14836" alt="Email"></a>
-  <a href="http://www.linkedin.com/in/Arthur-St" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Arthur%20Stefanelli-blue" alt="LinkedIn"></a>
-  <a href="https://artrexst.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Arthur%20Stefanelli-%23FF3E96" alt="Itch.io"></a>
+  <a href="mailto:arthur-sst@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/arthur--sst%40hotmail.com-linkedin?logo=microsoftoutlook&label=mail&labelColor=%23000000&color=%230078D4" alt="Email"></a>
+  <a href="https://artrexst.itch.io" target="_blank"><img src="https://img.shields.io/badge/Artrexst-x?logo=itchdotio&label=Itch.io&labelColor=%23000000&color=%23FA5C5C" alt="Itch.io"></a>
+  <a href="http://www.linkedin.com/in/Arthur-St" target="_blank"><img src="https://img.shields.io/badge/arthur--st-linkedin?logo=linkedin&label=Linkedin&labelColor=%23000000&color=%230A66C2" alt="LinkedIn"></a>
+  <a href="https://gitlab.com/artrex-st" target="_blank"><img src="https://img.shields.io/badge/artrex--st-gitLab?&logo=gitlab&label=GitLab&labelColor=%23000000&color=%23FC6D26" alt="GitLab"></a>
+
 </p>
 
 
@@ -45,4 +47,7 @@
   <a href="https://www.autodesk.com.br/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"><img src="https://img.shields.io/badge/Maya-8C96AB?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/></a>
   <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" alt="Rider"/></a>
 </p>
-
+<!--
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artrex-st&hide=,prs,issues,contribs&show=prs_merged&theme=github_dark&show_icons=false)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artrex-st&hide=javascript,css,tsql,shaderlab,hlsl,html&hide_progress=true&theme=github_dark)](https://github.com/artrex-st/github-readme-stats)
+-->
