@@ -3,7 +3,10 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   Hi there! I'm Arthur Stefanelli, a Brazilian Game Developer who loves to create immersive experiences. I have a background in Computer Science, multiplayer game development, AWS services (Lambda, IAM, Cognito, DynamoDB), and mobile game development. 
-  In the past, I worked as a commercial automation programmer using Delphi, MySQL and Linux.
+  In the past, I worked as a commercial automation programmer using Delphi, MySQL and Linux. 
+  </br>
+  </br>
+  <em>Always open to exciting opportunities in game development and eager to enhance my skills further!</em>
 </p>
 
 <p align="center">
