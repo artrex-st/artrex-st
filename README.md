@@ -47,7 +47,13 @@
   <a href="https://www.autodesk.com.br/products/maya/overview?term=1-YEAR&tab=subscription" target="_blank"><img src="https://img.shields.io/badge/Maya-8C96AB?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya"/></a>
   <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" alt="Rider"/></a>
 </p>
+
+<div align="center">
+    <a href="https://komarev.com/ghpvc/?username=artrex-st" target="_blank"><img src="https://komarev.com/ghpvc/?username=artrex-st" alt="View"></a>
+</div>
 <!--
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artrex-st&hide=,prs,issues,contribs&show=prs_merged&theme=github_dark&show_icons=false)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artrex-st&hide=javascript,css,tsql,shaderlab,hlsl,html&hide_progress=true&theme=github_dark)](https://github.com/artrex-st/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artrex-st&hide=,prs,issues,contribs&show=prs_merged&theme=github_dark&show_icons=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artrex-st&theme=github_dark&hide=javascript,css,tsql,shaderlab,hlsl,html&hide_progress=true)"/>
+</div>
 -->
