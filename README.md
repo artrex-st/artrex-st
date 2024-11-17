@@ -22,11 +22,6 @@
 <p align="center">
   <a href="https://learn.microsoft.com/dotnet/csharp/tour-of-csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-  <!-- Add other technologies here -->
-</p>
-
-<h3 align="center">Technologies I'm Learning:</h3>
-<p align="center">
   <a href="https://learn.microsoft.com/cpp/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.unrealengine.com/"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
   <!-- Add other technologies here -->
